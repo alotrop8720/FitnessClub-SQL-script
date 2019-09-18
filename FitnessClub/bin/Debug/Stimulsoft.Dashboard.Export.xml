@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Stimulsoft.Dashboard.Export</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "P:Stimulsoft.Dashboard.Export.Settings.StiSvgDashboardExportSettings.RenderEmptyContent" -->
+        <member name="P:Stimulsoft.Dashboard.Export.Settings.StiSvgDashboardExportSettings.DesignMode">
+            <summary>
+            Export the element for use on the web designer page.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Dashboard.Export.Settings.StiDashboardExportSettings.RenderBorders">
+            <summary>
+            Enables or disables rendering of the defined element borders.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Dashboard.Export.Settings.StiDashboardExportSettings.RenderSingleElement">
+            <summary>
+            Export a single dashboard element to the entire page.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.Dashboard.Export.Settings.StiDashboardExportSettings.RenderSinglePage">
+            <summary>
+            Export only the first page if elements require multiple pages to be rendered.
+            </summary>
+        </member>
+    </members>
+</doc>
